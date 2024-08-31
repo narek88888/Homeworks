@@ -1,4 +1,4 @@
-# filtrel nranq, voronc tariqy tokosov bajanac 2-i mnacordy 1 e
+# filter their age if we divide by 2 the output will be 0
 
 orginal_dict = {'jack': 38, 'michael': 48, 'guido': 57, 'john': 33}
 
